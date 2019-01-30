@@ -2,9 +2,9 @@
  //Alexandre Cormier
  // -----V-2------
  //Selectionne tout les nodes correspondant aux types selectionnés. 
- Deux modes : 
+/* Deux modes : 
  Sans rien selectionner, la recherche s'effectura sur l'ensemble des nodes de la scene
- En selectionnant des nodes ou un groupe, la recherche s'effectura parmis la selection. 
+ En selectionnant des nodes ou un groupe, la recherche s'effectura parmis la selection. */
  
 function AL_SelectByType(){
 
